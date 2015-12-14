@@ -46,6 +46,6 @@ main()
 	}
 	
 	printf("ynp_space=:%s|\n",ynp_space);
-	printf("a"*10);
+	printf("a");
 	return 0;
 }
